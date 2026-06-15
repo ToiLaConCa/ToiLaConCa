@@ -35,7 +35,6 @@ I'm a **Software Engineering** student at **VNUK**, currently focused on buildin
 <div align="left">
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_ASM-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -46,11 +45,6 @@ I'm a **Software Engineering** student at **VNUK**, currently focused on buildin
 
 ### 📊 Stats
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toilamotconca&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)](https://github.com/toilamotconca)
-
-</div>
 
 ---
 
