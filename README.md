@@ -24,7 +24,6 @@ I'm a **Software Engineering** student at **VNUK**, currently focused on buildin
 - 🔭 **Focus:** Mastering Software Engineering fundamentals and building scalable applications
 - 🌱 **Learning Strategy:** Active Learning · Feynman Technique · Problem-First approach
 - 🏗️ **Interests:** Backend Development · Systems Architecture · Low-level Programming
-- 🎮 **Off-duty:** CS2 competitive player
 
 <br clear="right"/>
 
