@@ -39,14 +39,6 @@ I'm a **Software Engineering** student at **VNUK**, currently focused on buildin
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
----
-
-### 📊 Stats
-
-
----
 
 <div align="center">
 
